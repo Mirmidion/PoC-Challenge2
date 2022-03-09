@@ -1,0 +1,51 @@
+screenshotUrls,ipadScreenshotUrls,appletvScreenshotUrls,artworkUrl60,artworkUrl512,artworkUrl100,artistViewUrl,isGameCenterEnabled,advisories,features,supportedDevices,kind,minimumOsVersion,trackCensoredName,languageCodesISO2A,fileSizeBytes,sellerUrl,formattedPrice,contentAdvisoryRating,averageUserRatingForCurrentVersion,userRatingCountForCurrentVersion,averageUserRating,trackViewUrl,trackContentRating,currency,releaseDate,sellerName,bundleId,isVppDeviceBasedLicensingEnabled,primaryGenreName,genreIds,trackId,trackName,currentVersionReleaseDate,releaseNotes,primaryGenreId,description,artistId,artistName,genres,price,version,wrapperType,userRatingCount
+"https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/a9/54/23/a9542348-35de-43b6-725e-e1945e16fd14/pr_source.png/392x696bb.png,https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/ca/8e/9d/ca8e9d05-3e35-9712-43dc-340663325c41/pr_source.png/392x696bb.png,https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/68/21/15/68211551-4cba-2de7-b081-1ee41b82ebae/pr_source.png/392x696bb.png,https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/81/5a/e1/815ae1dd-bce7-fe59-08ef-e4c527424e19/pr_source.png/392x696bb.png,https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/f8/9e/5e/f89e5e1f-fe49-6ba7-6b9d-ed7027948f55/pr_source.png/392x696bb.png,https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/f2/0b/f0/f20bf047-08d2-d68e-5f75-2a2ed9d23276/pr_source.png/392x696bb.png","https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/07/82/b1/0782b1de-3d77-5545-d7db-4865fc2d2ad1/mzl.theddwyl.png/576x768bb.png,https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/ff/c5/57/ffc55703-fe4e-fcc6-d72c-9246fbd7971d/mzl.iuqlrblm.png/576x768bb.png,https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e8/46/97/e846970f-b023-22c0-f4a7-31a4438d4e71/mzl.ibazjtet.png/576x768bb.png",,https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/3f/88/01/3f880181-259a-a8b0-54db-3c8cecd48f9f/source/60x60bb.jpg,https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/3f/88/01/3f880181-259a-a8b0-54db-3c8cecd48f9f/source/512x512bb.jpg,https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/3f/88/01/3f880181-259a-a8b0-54db-3c8cecd48f9f/source/100x100bb.jpg,https://apps.apple.com/nl/developer/aloebud-llc/id1170681391?uo=4,True,,"gameCenter,iosUniversal","iPhone5s-iPhone5s,iPadAir-iPadAir,iPadAirCellular-iPadAirCellular,iPadMiniRetina-iPadMiniRetina,iPadMiniRetinaCellular-iPadMiniRetinaCellular,iPhone6-iPhone6,iPhone6Plus-iPhone6Plus,iPadAir2-iPadAir2,iPadAir2Cellular-iPadAir2Cellular,iPadMini3-iPadMini3,iPadMini3Cellular-iPadMini3Cellular,iPodTouchSixthGen-iPodTouchSixthGen,iPhone6s-iPhone6s,iPhone6sPlus-iPhone6sPlus,iPadMini4-iPadMini4,iPadMini4Cellular-iPadMini4Cellular,iPadPro-iPadPro,iPadProCellular-iPadProCellular,iPadPro97-iPadPro97,iPadPro97Cellular-iPadPro97Cellular,iPhoneSE-iPhoneSE,iPhone7-iPhone7,iPhone7Plus-iPhone7Plus,iPad611-iPad611,iPad612-iPad612,iPad71-iPad71,iPad72-iPad72,iPad73-iPad73,iPad74-iPad74,iPhone8-iPhone8,iPhone8Plus-iPhone8Plus,iPhoneX-iPhoneX,iPad75-iPad75,iPad76-iPad76,iPhoneXS-iPhoneXS,iPhoneXSMax-iPhoneXSMax,iPhoneXR-iPhoneXR,iPad812-iPad812,iPad834-iPad834,iPad856-iPad856,iPad878-iPad878,iPadMini5-iPadMini5,iPadMini5Cellular-iPadMini5Cellular,iPadAir3-iPadAir3,iPadAir3Cellular-iPadAir3Cellular,iPodTouchSeventhGen-iPodTouchSeventhGen,iPhone11-iPhone11,iPhone11Pro-iPhone11Pro,iPadSeventhGen-iPadSeventhGen,iPadSeventhGenCellular-iPadSeventhGenCellular,iPhone11ProMax-iPhone11ProMax,iPhoneSESecondGen-iPhoneSESecondGen,iPadProSecondGen-iPadProSecondGen,iPadProSecondGenCellular-iPadProSecondGenCellular,iPadProFourthGen-iPadProFourthGen,iPadProFourthGenCellular-iPadProFourthGenCellular,iPhone12Mini-iPhone12Mini,iPhone12-iPhone12,iPhone12Pro-iPhone12Pro,iPhone12ProMax-iPhone12ProMax,iPadAir4-iPadAir4,iPadAir4Cellular-iPadAir4Cellular,iPadEighthGen-iPadEighthGen,iPadEighthGenCellular-iPadEighthGenCellular,iPadProThirdGen-iPadProThirdGen,iPadProThirdGenCellular-iPadProThirdGenCellular,iPadProFifthGen-iPadProFifthGen,iPadProFifthGenCellular-iPadProFifthGenCellular,iPhone13Pro-iPhone13Pro,iPhone13ProMax-iPhone13ProMax,iPhone13Mini-iPhone13Mini,iPhone13-iPhone13,iPadMiniSixthGen-iPadMiniSixthGen,iPadMiniSixthGenCellular-iPadMiniSixthGenCellular,iPadNinthGen-iPadNinthGen,iPadNinthGenCellular-iPadNinthGenCellular",software,11.0,Aloe Bud,EN,16335872,http://aloebud.com,Gratis,4+,4.65591,93,4.65591,https://apps.apple.com/nl/app/aloe-bud/id1318382054?uo=4,4+,EUR,2018-04-25T07:00:00Z,Aloebud LLC,club.aloe.Aloe,True,Health & Fitness,"6013,6012",1318382054,Aloe Bud,2020-06-25T21:20:25Z,"iOS 13 Support
+Rate the App prompt
+Sound Effect Settings
+Decreased Sound Effect Volume",6013,"Aloe Bud is your all-in-one, self-care pocket companion. We gently bring awareness to self-care activities, using encouraging push notifications, rather than guilt or shame. Helpful reminders from yourself, to yourself; saved within Aloe Bud so you can keep doing you! What areas of self-care do you need more of in your life?
+
+Whether you're trying to stay hydrated, or need reminders to get in touch with friends. Check-in and reflect on yourself in real-time or as you need.
+
+Hydrate
+Move
+Breathe
+Health
+Break
+Rest
+Fuel
+Refresh
+People
+Stimulate
+Motivate
+
+ACTIVITY CARDS
+Add activity cards to your personal dashboard, according to what you believe needs extra attention today or in the near future. Activity cards cover everything, from the mundane (such as filling up water bottles and remembering to take screen breaks) to the larger picture (journaling about personal relationships and remembering who or what you’re grateful for).
+
+SCHEDULED REMINDERS (OPT-IN)
+Aloe Bud sends reminders only when asked and can be set at specific times from daily to weekdays, weekends, or any other arrangement you can think of. Reminders bring awareness to important activities, that get lost among other priorities.
+
+Create and develop self-care routines that work for you. Aloe Bud brings awareness to physical, mental and emotional needs throughout the day using unobtrusive push notifications. 
+
+RECENT ACTIVITY LOG
+Celebrate tiny victories in your personal activity log, that can be accessed when you touch the icon at the top. Scroll through recently completed check in’s and reflections and look back on your progress day by day.
+
+It’s not meant to and should not replace mental health care or the support of loved ones, but it is a valuable—and free—tool to help bridge gaps in making self-care as accessible and personal as possible.
+
+Aloe Bud can be fully enjoyed for free, but if you would like to enhance your experience and help support our growth, we offer optional in-app purchases. It allows you to add as many self-care activities check in’s, journal and activity log entries, as well as unlimited customization reminder schedules. Premium features are optional and not required to have a full experience. Premium features are enhancements and expansions to our in-app content.
+
+PREMIUM FEATURES
+Premium Reminders: For $1.99 unlock an expansion pack of gentle reminders + the ability to enable or disable reminder messages.
+Custom Reminders: For $3.99 unlock the ability to write your own personal reminders for any activity of your choice +  the ability to enable, disable, + the ability to enable or disable reminder messages.
+Reminders Bundle: For $4.99, save and unlock everything currently available. Does not apply to any future premium features added.
+
+PRIVACY POLICY
+All data remains on your device and is kept there until the app has been deleted from your device. We collect non-personal, or identify-able analytical data to improve your experiences.
+
+Read more in our Privacy Policy http://aloebud.com/privacy
+
+Twitter: @aloebud
+Instagram: @aloebud
+Facebook: facebook.com/aloebud
+News updates: aloebud.com
+
+Designed out of the pure necessity of their own mental health struggles; Aloe Bud creator, Amber Discko searched the App Store for something, anything to help with basic self-care. After trying and ignoring countless self-care apps and feeling guilty for doing so, finding one that met their needs and lifestyle became frustrating. Amber believed there was no better time to start designing a gentle, all-in-one personal care app, using their own experiences, affinity for pixel art and the needs of their communities to bring this simple idea to life.",1170681391,Aloebud LLC,"Gezondheid en fitness,Lifestyle",0.0,1.1,software,93
