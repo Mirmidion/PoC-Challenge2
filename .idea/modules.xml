@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/PoC-Challenge2.iml" filepath="$PROJECT_DIR$/.idea/PoC-Challenge2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../programming for data science/k means kluster analyse/.idea/k means kluster analyse.iml" filepath="$PROJECT_DIR$/../../../programming for data science/k means kluster analyse/.idea/k means kluster analyse.iml" />
     </modules>
   </component>
 </project>
